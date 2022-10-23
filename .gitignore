@@ -1,3 +1,4 @@
 /.env
 /data_settings.json
 /load_data.json
+/chromedriver
